@@ -1,0 +1,22 @@
+Project: Login Authentication System
+
+Technologies Used:
+- Java Servlets
+- JSP
+- MySQL
+- JDBC
+- Apache Tomcat
+
+Modules:
+1. Login
+2. Register
+3. Forgot Password
+4. Reset Password
+
+Database:
+Table Name: users
+Fields:
+- id
+- username
+- email
+- password
